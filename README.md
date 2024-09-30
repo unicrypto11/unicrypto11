@@ -5,7 +5,7 @@
 
 <div align="center">
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=720&lines=Fullstack+and+Blockchain+Engineer.; Over+10+years+of+Experience+in+Web+and+Blockchain." alt="Typing SVG" /></a> -->
-  Go | Rust Backend | React | Crypto Developer
+  <h1>Go | Rust Backend | React | Crypto Developer</h1>
 </div>
 
 
